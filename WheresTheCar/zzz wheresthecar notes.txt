@@ -1,0 +1,18 @@
+home screen
+-where's the car?
+-move the car
+-settings
+
+where's the car?
+-map with the car
+
+move the car
+-map with the car and they can click
+-when they click, show a marker, enable the dropdown menu and submit button
+-when they click submit, they get a confirmation. when they click ok, go back to main page
+
+settings
+-type a name
+-checkbox for phone notifications
+-checkbox for email notifications
+-linking with another user

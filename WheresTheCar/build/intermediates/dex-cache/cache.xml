@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Marc\AndroidStudioProjects\WheresTheCar\wtc\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="C:\Users\Marc\AndroidStudioProjects\WheresTheCar\wtc\build\intermediates\pre-dexed\debug\classes-717600e57c4dff6f55e1b1313214c5bbf7de2990.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marc\AndroidStudioProjects\WheresTheCar\wtc\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.2\libs\internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="C:\Users\Marc\AndroidStudioProjects\WheresTheCar\wtc\build\intermediates\pre-dexed\debug\internal_impl-21.0.2-217654eba54d02e2b8460c45d3eeae5dabfeef61.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marc\AndroidStudioProjects\WheresTheCar\wtc\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9742ced04aafd9ac97dd2c66c1aa0e32d2ae7e54">
+        <dex dex="C:\Users\Marc\AndroidStudioProjects\WheresTheCar\wtc\build\intermediates\pre-dexed\debug\classes-0e1fde4a41491cf907cf7f1aff7aed562e594b37.jar" />
+    </item>
+    <item
+        jar="C:\Android\Android Studio\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.2\support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="C:\Users\Marc\AndroidStudioProjects\WheresTheCar\wtc\build\intermediates\pre-dexed\debug\support-annotations-21.0.2-f18927222c22fde67aa2a36d3da60371f1a695bc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marc\AndroidStudioProjects\WheresTheCar\wtc\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.2\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7ae2d38807a43b2f2185ff4089a92c790b579e54">
+        <dex dex="C:\Users\Marc\AndroidStudioProjects\WheresTheCar\wtc\build\intermediates\pre-dexed\debug\classes-2ec7e0d95be09fa0b8e4658327afc85ee6d9d413.jar" />
+    </item>
+    <item
+        jar="C:\Users\Marc\AndroidStudioProjects\WheresTheCar\wtc\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.1.71\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="0f6d5c1ef2e982c3b7858408e3df389cf5d202da">
+        <dex dex="C:\Users\Marc\AndroidStudioProjects\WheresTheCar\wtc\build\intermediates\pre-dexed\debug\classes-f0a836626ab37a50adea8634dfeaf0c2df2d5de0.jar" />
+    </item>
+
+</items>
